@@ -10,3 +10,6 @@ Haz commits pequeños y frecuentes: Realiza commits con cambios pequeños y bien
 
 ### 3. Practice: 
 Documenta tu código de manera adecuada: Añadir comentarios claros y útiles en tu código es fundamental para ayudar a otros a entender por qué se tomó una decisión específica o cómo funciona un fragmento en particular. No es necesario comentar cada línea, pero los bloques de código complejos o los algoritmos deben ser explicados. Ejemplo: "Este algoritmo de búsqueda utiliza un enfoque recursivo para reducir la complejidad computacional."
+
+### 4. Practice: 
+Mantén tu código DRY (Don't Repeat Yourself): Evita la repetición de código. Si ves que estás escribiendo el mismo fragmento de código varias veces, es una señal de que podrías crear una función o clase reutilizable. Esto mejora la mantenibilidad y reduce errores. Ejemplo: Si necesitas validar direcciones de correo electrónico en varias partes de tu código, crea una función validateEmail() en lugar de escribir la misma lógica repetidamente.
